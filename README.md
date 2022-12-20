@@ -1,6 +1,6 @@
 # PHP Pool (42 School Project) ✅
 
-PHP Pool is a project for those who wants to learn PHP (as well as HTML, CSS, JavaScript and MySQL) form the very beginning. It consists of 10 daily projects (each of them may include up to 20 small tasks), and 2 global projects - rushes (they offer you to create an online-shop and browser game respectively).
+PHP Pool is a project for those who wants to learn PHP (as well as HTML, CSS, JavaScript and MySQL) form the very beginning. It consists of 10 daily projects (each of them may include up to 20 small tasks) and 2 global projects - rushes (they offer you to create an online-shop and browser game respectively).
 
 ### Specific notes for the days
 Check out Day 05 for a bunch of mysql queries, Day 07 - for OOP in PHP, Day 09 - for JavaScript.
